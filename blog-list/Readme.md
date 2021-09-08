@@ -1,0 +1,3 @@
+# BlogList application
+
+moderndesktopminimal template
